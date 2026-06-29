@@ -4,7 +4,7 @@
 The objective of this project is to analyze Swiggy's listing-level data to evaluate market performance across different cities, restaurants, and food categories. The dashboard helps identify pricing trends, customer satisfaction, and regional performance through interactive visualizations and key performance indicators (KPIs), enabling data-driven business decisions.
 
 ## Dataset used
-<a href=https://drive.google.com/drive/mobile/folders/1YCMSykZ-rv27HYPlADonBKDGAgTfsjsa?usp=sharing&pli=1</a>
+<a href=https://github.com/priyankal6/Swiggy-sales-Buisness-analysis-project/commit/acace280ec7376e215a6d9ee0065e1ce8c1652d8>Dataset</a>
 
 ## Business Questions Answered
 

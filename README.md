@@ -21,5 +21,4 @@ This dashboard answers the following business questions:
 - Which cities should management prioritize for growth or improvement?
  -How can pricing and customer ratings be used to evaluate market performance?
 
-  ## Dashboard
-  <a https://github.com/priyankal6/Swiggy-sales-Buisness-analysis-project/commit/814d871f5b8c24dc894e62bc30b0ccc2020ba24f>Dashboard</a>
+  - Dashboard Interaction <a href="https://github.com/priyankal6/Swiggy-sales-Buisness-analysis-project/commit/814d871f5b8c24dc894e62bc30b0ccc2020ba24f">View Dashboard</a>

@@ -1,2 +1,4 @@
 # Swiggy-sales-Buisness-analysis-project
-Developed an Excel dashboard using Swiggy listing-level data to analyze city performance, restaurant contribution, pricing trends, category mix, and customer ratings. The project includes KPI cards, monthly trends, top city/restaurant analysis, and summary tables, created using Pivot tables,power query and SQL.
+## Project Objective
+
+The objective of this project is to analyze Swiggy's listing-level data to evaluate market performance across different cities, restaurants, and food categories. The dashboard helps identify pricing trends, customer satisfaction, and regional performance through interactive visualizations and key performance indicators (KPIs), enabling data-driven business decisions.
